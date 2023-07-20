@@ -1,0 +1,52 @@
+{
+  "contactos": [
+    {
+      "id": 1,
+      "nombre": "Pablo",
+      "apellido": "Benavidez",
+      "telefono": "1526357487",
+      "direccion": "San Martín 2343",
+      "email": "pablito.10@gmail.com"
+    },
+    {
+      "id": 2,
+      "nombre": "Juan",
+      "apellido": "Sanchez",
+      "telefono": "1521245671",
+      "direccion": "La Falda 4536",
+      "email": "juan.77@gmail.com"
+    },
+    {
+      "id": 3,
+      "nombre": "Rosa",
+      "apellido": "Suarez",
+      "telefono": "1534551121",
+      "direccion": "Goyena 412",
+      "email": "rosa_7@gmail.com"
+    },
+    {
+      "id": 4,
+      "nombre": "María",
+      "apellido": "Alvarez",
+      "telefono": "1545612486",
+      "direccion": "Formosa 45",
+      "email": "mari.9@gmail.com"
+    },
+    {
+      "id": 5,
+      "nombre": "Julián",
+      "apellido": "Martinez",
+      "telefono": "154564716",
+      "direccion": "Honorio Pueyrredón 4567",
+      "email": "julianmartinez_8@gmail.com"
+    },
+    {
+      "nombre": "Hernán",
+      "apellido": "Fernandez",
+      "telefono": "1534312425",
+      "direccion": "Tres Arroyos 554",
+      "email": "herni.9@gmail.com",
+      "id": 6
+    }
+  ]
+}
