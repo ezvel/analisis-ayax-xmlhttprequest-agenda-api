@@ -22,8 +22,9 @@
                     <input type="email" id="email" class="form__input" name="email"  autocomplete="off">
                 </div>
                 <div class="form__buttons">
-                    <input type="submit" class="button__enviar" id="enviar" value="Enviar">
-                    <input type="reset" class="button__resetear" value="Resetear">
+                    <input type="submit" class="button__enviar" id="cargar" value="Cargar">
+                    <input type="submit" class="button__modificar" id="modificar" value="Modificar" disabled>
+                    <input type="reset" class="button__resetear" id="reset" value="Resetear">
                 </div>
             </form>
         </section>
@@ -40,13 +41,19 @@
                     </tr>
                 </thead>
                 <tbody class="table__body">
-
+        
                 </tbody>
             </table>
+            <div>
+                <p id="error">
+
+                </p>
+            </div>
         </section>
     </main>
 
     <script src="js/ayax.js"></script>
+    <script src="js/dom.js"></script>
     <script src="js/app.js"></script>
 </body>
 </html>
