@@ -47,6 +47,15 @@ const mostrarContactos = () => {
                     </td>
                 `;
                 $fragment.appendChild($row);
+                /* --> callback hell
+                ayax({
+                    url
+                    metodo
+                    success
+                    errors
+                })
+                */
+                
             })
             $table.appendChild($fragment);
         },
